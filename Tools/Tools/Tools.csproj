@@ -44,6 +44,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Utils\colinsalmcorner.colinsalmcorner-buildtasks-1.1.41.vsix" />
+    <None Include="Utils\jessehouwing.jessehouwing-vsts-variable-tasks-1.0.1026.vsix" />
     <None Include="Utils\rvo.SendEmailTask-1.1.875.vsix" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
